@@ -54,3 +54,12 @@ h1, h2 {
 #mainLeft {
     border-right: 1px solid lightgray;
  }
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.column {
+    float: left;
+    width: 50%; /* Adjust percentage as needed */
+}
